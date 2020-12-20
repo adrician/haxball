@@ -21,3 +21,4 @@
     "hr/win-streak",
     "hr/admin-text-color"
   ]
+}
