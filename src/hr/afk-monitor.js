@@ -5,7 +5,7 @@
 let room = HBInit();
 room.pluginSpec = {
   name: `hr/afk-monitor`,
-  author: `salamini`,
+  author: `adrician`,
   version: `1.0.0`,
   dependencies: [
     `sav/game-state`,
