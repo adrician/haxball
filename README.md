@@ -18,7 +18,6 @@
     "hr/simple-commands",
     "hr/spam",
     "hr/unadmin-protection",
-    "hr/win-streak",
-    "hr/admin-text-color"
+    "hr/win-streak"
   ]
 }
