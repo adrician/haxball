@@ -1,9 +1,4 @@
-# hhm-sala-plugins
 
-Repository of plugins for
-[Haxball Headless Manager](https://github.com/saviola777/haxball-headless-manager).
-
-This repository offers folowing plugins:
 
 - [hr/afk-monitor](src/hr/afk-monitor.js)
 - [hr/always-one-admin](src/hr/always-one-admin.js)
@@ -21,16 +16,6 @@ This repository offers folowing plugins:
 - [hr/admin-text-color](src/hr-admin-text-color.js)
 
 Click the links to see the source code for the options the plugins support.
-
-## Usage
-
-This repository contains plugins that should work well with
-[haxroomie](https://github.com/morko/haxroomie).
-
-In [haxroomie-cli](https://www.npmjs.com/package/haxroomie-cli) config you can add
-the repository to the `repository` array.
-
-e.g.
 
 ```js
 repositories: [
